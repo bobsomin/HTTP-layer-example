@@ -1,0 +1,58 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">GilGil Layer</th>
+    <th class="tg-0pky">OSI 모델</th>
+    <th class="tg-0pky">TCP/IP Layer</th>
+    <th class="tg-0pky">Other protocol</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Alligator</td>
+    <td class="tg-0pky">Application</td>
+    <td class="tg-0pky" rowspan="3"><br><br>HTTP<br></td>
+    <td class="tg-0pky" rowspan="3">SSH, <br>FTP, <br>Telnet,<br>SMTP,<br>POP3</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Pet</td>
+    <td class="tg-0pky">Presentation</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Steve's</td>
+    <td class="tg-0pky">Session</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Touch</td>
+    <td class="tg-0pky">Transport</td>
+    <td class="tg-0pky">TCP</td>
+    <td class="tg-0pky">UDP, SCTP</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Not</td>
+    <td class="tg-0pky">Network</td>
+    <td class="tg-0pky">IP</td>
+    <td class="tg-0pky">IPv6, ARP</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Do</td>
+    <td class="tg-0pky">Data Link</td>
+    <td class="tg-0pky">Ethernet</td>
+    <td class="tg-0pky">HDLC, Frame<br>Relay</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Please</td>
+    <td class="tg-0pky">Physical</td>
+    <td class="tg-0pky">Physical</td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
